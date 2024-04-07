@@ -1,0 +1,28 @@
+
+.card-title{
+    font-weight:720;
+}
+.bor{
+    border: none;
+    background-color:#eaeaea ;
+   
+}
+#aa2{
+    width: 100%;
+}
+.card-body{
+    background-color:#eaeaea;
+}
+.newk{
+    width: 100%;
+    border-radius: 20px;
+}
+.newk1{
+   width: 200px;
+    border-radius: 20px;
+}
+@media (max-width: 768px) {
+    .jk{
+        width: 100%;
+    }
+}

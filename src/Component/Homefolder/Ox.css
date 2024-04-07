@@ -1,0 +1,18 @@
+.inter{
+    background-image: url("visit.jpg");
+    height: 600px;
+}
+.pt{
+    padding-top: 150px;
+    
+}
+.pt2{
+    
+    padding-top: 5px;
+}
+@media (max-width: 768px) {
+   .inter{
+    background-image: url(visit.jpg);
+    width: 100%;
+   }
+}

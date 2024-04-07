@@ -1,0 +1,54 @@
+.tra{
+    padding-top: 150px;
+}
+.your{
+    text-align: start;
+    color: black;
+    font-size: 20px;
+}
+.bor1{
+
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.coca{
+
+    width: 100%;
+}
+.sub{
+    width: 160px;
+    height: 50px;
+    border-radius: 15px;
+}
+.ord{
+    text-align: start;
+    padding-top: 30px;
+    width: 60%;
+}
+.headi{
+    padding-bottom: 60px;
+}
+.ord1{
+    text-align: center;
+    justify-content: center;
+    text-align: start;
+    padding-top: 30px;
+    width: 60%;
+    border-radius: 25px;
+}
+@media (max-width: 768px) {
+   .tra{
+    width: 100%;
+   }
+   .ord1{
+    width: 100%;
+   }
+   .ord{
+    width: 100%;
+   }
+   .bor1{
+    width: 100%;
+   
+   }
+   
+}

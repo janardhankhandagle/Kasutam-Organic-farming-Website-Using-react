@@ -1,0 +1,29 @@
+.vesic{
+    font-size: 20px;
+    color: #656060 ;
+    font-weight: 500;
+}
+.moree{
+    color: black;
+}
+.adm{
+    height: 100%;
+}
+
+.cert{
+    color: rgb(15, 93, 15);
+}
+.bkt{
+    padding-top: 40px;
+    color:  rgb(15, 93, 15);
+    font-size: 44px;
+font-weight: 500;}
+
+
+
+@media (max-width: 768px) {
+    .ions{
+        width: 70%;
+    }
+}
+
